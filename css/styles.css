@@ -95,4 +95,38 @@ img, #log{
 
 .pinkdivfoot{
     background-color: #f08080;
+    width: 30%;
+    min-height: 590px;
+}
+
+.azuredivfoot{
+    background-color: #20b2aa;
+    width: 70%;
+    min-height: 590px;
+    justify-content: flex-start;
+    align-items: stretch;
+}
+
+.column{
+    width: 25%;
+    border: 2px dotted white;
+}
+
+.spacerFooter{
+    padding-top: 1em;
+    border-bottom: 1px solid white;
+}
+
+#foot{
+    background-color: #6ed7b4;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 0;
+    margin-top: 20px;
+}
+
+.pinkfoot{
+    background-color: #ffb6c1;
+    padding: 0.5rem;
 }

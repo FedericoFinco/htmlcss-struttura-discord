@@ -38,10 +38,12 @@ body{
 nav{
     width: calc(100%/5*3);
     text-align: center;
+    height: 2rem;
 }
 
 img, #log{
     width: calc(100%/5*1);
+    height: 2rem;
 }
 
 .white{

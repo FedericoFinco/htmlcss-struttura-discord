@@ -7,3 +7,38 @@
 body{
     background-color: #222;
 }
+
+.banner{
+    background-color: #add8e6;
+    padding: 1em;
+    min-height: 590px;
+}
+
+.ContainerFlex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.boxed{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.border{
+    border: 2px dotted black;
+}
+
+#heading{
+    background-color: #daa520;
+    font-size: 20px;
+    padding: 0,5em;
+}
+
+nav{
+    width: calc(100%/5*3);
+    text-align: center;
+}
+
+img, #log{
+    width: calc(100%/5*1);
+}

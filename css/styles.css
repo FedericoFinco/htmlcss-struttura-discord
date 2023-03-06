@@ -82,3 +82,17 @@ img, #log{
     padding-top: 3em;
     padding-bottom: 3em;
 }
+
+.greendiv{
+    background-color: #228b22;
+    width: 100%;
+    min-height: 900px;
+}
+
+.deepgrey{
+    background-color: #23272a;
+}
+
+.pinkdivfoot{
+    background-color: #f08080;
+}
